@@ -1,0 +1,13 @@
+train: D:/Project Space/CTS-v2/CTC-v2/CTS-3/train/images
+val: D:/Project Space/CTS-v2/CTC-v2/CTS-3/valid/images
+test: D:/Project Space/CTS-v2/CTC-v2/CTS-3/test/images
+
+nc: 1
+names: ['gamepad']
+
+roboflow:
+  workspace: opencv-jyecv
+  project: cts-rbt7l
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/opencv-jyecv/cts-rbt7l/dataset/3

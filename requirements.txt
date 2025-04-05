@@ -1,0 +1,8 @@
+dotenv
+opencv-python
+torch
+torchvision
+roboflow
+ultralytics
+numpy 
+matplotlib
